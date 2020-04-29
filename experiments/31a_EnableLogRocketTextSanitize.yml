@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a063de35c10b1562264a
+type: experiment
+name: 31a_ Enable Log Rocket Text Sanitize
+flag: 31a_EnableLogRocketTextSanitize
+value: true
