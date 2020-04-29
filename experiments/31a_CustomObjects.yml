@@ -1,0 +1,20 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fe4cae01f595e1eb5dd
+type: experiment
+name: 31a_ Custom Objects
+flag: 31a_CustomObjects
+conditions:
+  - group:
+      name:
+        - 31a_Float Factor  28929
+        - 31a_float00_clone3
+    value: false
+  - group:
+      name:
+        - 31a_Test Downgrade  103636
+        - 31a_EINAT18
+        - 31a_Clone 1 AABB
+        - 31a_Clone Of Clone AABB
+        - 31a_clone 11
+    value: true
+value: true
