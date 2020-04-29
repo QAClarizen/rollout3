@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a1afcae01f68fd1ed7b4
+type: experiment
+name: 31a_ Show Financial Planning Labor Resources
+flag: 31a_ShowFinancialPlanningLaborResources
+conditions:
+  - group:
+      name:
+        - 31a_Like a Version
+        - 31a_FPTestElad Hahahah Elad
+    value: true
+value: true

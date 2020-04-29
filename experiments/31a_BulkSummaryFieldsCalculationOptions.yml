@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f55f8c61bb7ef0cf537
+type: experiment
+name: 31a_ Bulk Summary Fields Calculation Options
+flag: 31a_BulkSummaryFieldsCalculationOptions
+availableValues:
+  - '0'
+value: '0'

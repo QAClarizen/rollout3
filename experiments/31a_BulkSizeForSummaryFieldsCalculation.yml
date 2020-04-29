@@ -1,0 +1,19 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f58cae01f71a91eac19
+type: experiment
+name: 31a_ Bulk Size For Summary Fields Calculation
+flag: 31a_BulkSizeForSummaryFieldsCalculation
+availableValues:
+  - '1'
+  - '5'
+conditions:
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+        - 31a_Clarizen Int
+        - 31a_Clarizen int_clone11
+        - 31a_Clarizen Int_Clone1
+        - 31a_Clarizen Int_Clone2
+    value: '5'
+value: '1'

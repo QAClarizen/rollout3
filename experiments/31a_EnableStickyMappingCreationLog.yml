@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0b7de35c151da622f12
+type: experiment
+name: 31a_ Enable Sticky Mapping Creation Log
+flag: 31a_EnableStickyMappingCreationLog
+value: false

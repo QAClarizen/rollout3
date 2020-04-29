@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0e545f925209d0026f8
+type: experiment
+name: 31a_ Formula Aggregation For Charts
+flag: 31a_FormulaAggregationForCharts
+value: false

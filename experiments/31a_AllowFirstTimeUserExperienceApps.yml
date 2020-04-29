@@ -1,0 +1,23 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f86de35c1623662158d
+type: experiment
+name: 31a_ Allow First Time User Experience Apps
+flag: 31a_AllowFirstTimeUserExperienceApps
+conditions:
+  - group:
+      name:
+        - 31a_Mariash
+        - 31a_mariaclcom
+    value: false
+  - group:
+      name:
+        - 31a_Einat
+        - 31a_Test Downgrade  103636
+        - 31a_EINAT18
+        - 31a_EINAT95
+        - 31a_EINAT98
+        - 31a_Clone 1 AABB
+        - 31a_Clone Of Clone AABB
+        - 31a_clone 11
+    value: true
+value: true

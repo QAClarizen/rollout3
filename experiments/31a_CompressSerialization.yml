@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fc2f8c61b26ba0cfd16
+type: experiment
+name: 31a_ Compress Serialization
+flag: 31a_CompressSerialization
+value: true

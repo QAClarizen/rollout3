@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fd2f8c61be47c0cfe1d
+type: experiment
+name: 31a_ Converting Custom Field At Internal Level
+flag: 31a_ConvertingCustomFieldAtInternalLevel
+conditions:
+  - group:
+      name:
+        - 31a_testru Fiscal Calendar  March1
+        - 31a__clone2
+    value: false
+  - group:
+      name:
+        - 31a_mariaclcom
+        - 31a_OneLogin19278
+        - 31a_OneLoginClone
+    value: true
+value: false

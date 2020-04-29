@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0c6cae01f45811eca3b
+type: experiment
+name: 31a_ Enable Sub Flow Rules Processing Optimizations
+flag: 31a_EnableSubFlowRulesProcessingOptimizations
+conditions:
+  - group:
+      name:
+        - 31a_Natalia
+        - 31a_Natalia 2
+    value: true
+value: false

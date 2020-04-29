@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a1ef18d4dec65bbeb3d1
+type: experiment
+name: 31a_ Use New Version Of Resource Management
+flag: 31a_UseNewVersionOfResourceManagement
+conditions:
+  - group:
+      name: 31a_Mariash
+    value: true
+value: false

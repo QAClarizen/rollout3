@@ -1,7 +1,0 @@
-type: target-group
-name: 31a_CV_ColorCoding_Part2_Percent
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '787213'
