@@ -1,0 +1,16 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0eede35c154a062318f
+type: experiment
+name: 31a_ Formula Mass Object Updater Extended Profiling
+flag: 31a_FormulaMassObjectUpdaterExtendedProfiling
+conditions:
+  - group:
+      name:
+        - 31a_QAUA
+        - 31a_Natalia
+        - 31a_EINAT60
+        - 31a_EINAT_60_Clone2
+        - 31a_Ilan
+        - 31a_Natalia 2
+    value: true
+value: false
