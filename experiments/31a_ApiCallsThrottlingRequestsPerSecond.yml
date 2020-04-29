@@ -1,0 +1,27 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f4845f925062f000896
+type: experiment
+name: 31a_ Api Calls Throttling Requests Per Second
+flag: 31a_ApiCallsThrottlingRequestsPerSecond
+availableValues:
+  - '0'
+  - '1'
+  - '3'
+  - '7'
+  - '9'
+conditions:
+  - group:
+      name: 31a_QAUA
+    value: '1'
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+    value: '3'
+  - group:
+      name: 31a_Mariash
+    value: '7'
+  - group:
+      name: 31a_mariaclcom
+    value: '9'
+value: '0'
