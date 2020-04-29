@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a190cae01f06b41ed695
+type: experiment
+name: 31a_ Resource Load New Gear Layout
+flag: 31a_ResourceLoadNewGearLayout
+value: true
