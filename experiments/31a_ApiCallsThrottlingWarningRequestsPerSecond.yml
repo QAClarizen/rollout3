@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f53de35c1b76b6212db
+type: experiment
+name: 31a_ Api Calls Throttling Warning Requests Per Second
+flag: 31a_ApiCallsThrottlingWarningRequestsPerSecond
+availableValues:
+  - '0'
+  - '2'
+conditions:
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+    value: '2'
+value: '0'
