@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bee0dbc67e17c00d8bcf
+type: experiment
+name: Hlpc Node List Info Kpi Log
+flag: HlpcNodeListInfoKpiLog
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - acc1 Calendar 454
+        - clone4
+        - acc1_clone5
+        - clone 8
+        - clone 9
+    value: false
+value: false

@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2beb52bf61022d4b20f7e
+type: experiment
+name: Enable Version Management
+flag: EnableVersionManagement
+value: true

@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bda339f14ea76e6a496d
+type: experiment
+name: Max Fast Lane Delay Sec
+flag: MaxFastLaneDelaySec
+availableValues:
+  - '300'
+value: '300'

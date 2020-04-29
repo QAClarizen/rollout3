@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf87dbc67e7a510d95b4
+type: experiment
+name: Run Report Parallel
+flag: RunReportParallel
+availableValues:
+  - (null)
+value: (null)

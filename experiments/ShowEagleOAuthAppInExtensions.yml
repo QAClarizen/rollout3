@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf56a4f4c111ed792732
+type: experiment
+name: Show Eagle O Auth App In Extensions
+flag: ShowEagleOAuthAppInExtensions
+conditions:
+  - group:
+      name:
+        - Einat
+        - Test Downgrade  103636
+        - EINAT18
+        - EINAT95
+        - EINAT98
+        - Clone 1 AABB
+        - Clone Of Clone AABB
+        - clone 11
+    value: true
+value: false

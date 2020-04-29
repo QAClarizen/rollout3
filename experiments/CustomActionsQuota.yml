@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd956ce3731a0d157078
+type: experiment
+name: Custom Actions Quota
+flag: CustomActionsQuota
+availableValues:
+  - '0'
+  - '20'
+  - '520'
+conditions:
+  - group:
+      name: acc3
+    value: '20'
+  - group:
+      name: testru Fiscal Calendar  March1
+    value: '520'
+value: '0'

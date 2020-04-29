@@ -1,0 +1,266 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd9a39f14e0f346a4917
+type: experiment
+name: Derived Dependencies Special Treatment
+flag: DerivedDependenciesSpecialTreatment
+availableValues:
+  - '1'
+  - '2'
+conditions:
+  - group:
+      name:
+        - Einat
+        - Test Downgrade  103636
+        - EINAT18
+        - EINAT95
+        - EINAT98
+        - Clone 1 AABB
+        - Clone Of Clone AABB
+        - clone 11
+        - SMSC
+        - QAUA
+        - smsc clone refresh testing 6
+        - ju_julialiskot
+        - vkorg
+        - throttling2
+        - BR_TEST
+        - throttling
+        - Clarizen Int
+        - Clarizen int_clone11
+        - Clarizen Int_Clone1
+        - Clarizen Int_Clone2
+        - testru Fiscal Calendar  March1
+        - loadlr
+        - Float Factor  28929
+        - testrm  no Fiscal Year
+        - float00_clone3
+        - Lohika Test Anton 23
+        - WHF155Org_
+        - Natalia
+        - 750cf
+        - FilterBasic
+        - _clone2
+        - OneLogin19278
+        - OneLoginClone
+        - acc3
+        - upgradedToEnhanced
+        - upgradedToBasic
+        - ALERTS TEST227793
+        - Programm  483780
+        - 750cf_clone1
+        - 750cf_clone2
+        - 750cf_clone1_clone11
+        - 750cf_clone1_clone12
+        - 750cf_clone1_clone11_Clone111
+        - Dashboard Auto Test
+        - Template Repository
+        - test4235345
+        - Acme Corp
+        - Gossip Girl TV Show12595
+        - Bastya12972
+        - '888'
+        - STOP Saturday and Sunday 8h  OrgID13315
+        - Clarizen Products Team
+        - Terra Incognita
+        - Template Repository _
+        - '444'
+        - Burda Moden
+        - asherorg
+        - FBI  19759
+        - michal
+        - QA27819
+        - ELC engagement request
+        - Clarizen Ophir
+        - orgFilterEnh
+        - 3Base Org
+        - v6upgrade1 HF46
+        - v6upgrade2
+        - Mail
+        - Orgrov
+        - e35r34t
+        - FrozenColumns_WorkPlanOnly32757
+        - AA
+        - QAA
+        - Shay Test Account III
+        - Meidan Inc
+        - Team 007
+        - XSS880880
+        - InterActTECCAssign770770
+        - OKTA_QA
+        - Performance
+        - Lior20140730 140008
+        - ChartViewsFR5
+        - ChangeType_FromTaskHammock612549
+        - FrozenColumns_WorkPlan7307251
+        - FindAndReplaceManager279322
+        - DataLoaderWorkItemsWithLinks410157
+        - London 114312
+        - ShortcutsRegressionTest469860
+        - ShortcutsRegressionTest822531
+        - First Task
+        - RolesAndAuthorizations_External555705
+        - RolesAndAuthorizations_Internal272064
+        - FieldSet_OnlyDefaultFields794462
+        - FieldSet_AggregationTest751070
+        - FieldSet_AggregationFinancialSuperUser76157
+        - FieldSet_DefaultProfileImpact926361
+        - FieldsSet_AggregateNoAggregateDefaultProfile623546
+        - ProfilesSanityForAllSections5120
+        - Clarizen test account
+        - testbp1
+        - Calendar view
+        - Testing Environment
+        - ProfilesBugs42688
+        - CLARIZEN65
+        - ProfilesPermissionsOnViews924705
+        - HighLightSelectedField868612
+        - ProfilesWithCustomizationAndInteract728723
+        - liadqa
+        - Elad MM  184706
+        - EINAT90
+        - dinaAnkonina
+        - HighLightCustomField44732
+        - RL_VerifyFilters508403
+        - ConditionalFormatting822628
+        - '71'
+        - EINAT77
+        - EINAT55
+        - hf43testedition
+        - testrl
+        - Cobra 199543
+        - EINAT60
+        - testfrozen  Fiscal Year Start 1March
+        - RL_QuickFilters89167
+        - Test000
+        - mmbasic
+        - ChangeType_FromMS989300
+        - '12'
+        - RL_VerifyLinksFilters746791
+        - MultiManager651927
+        - AutomationShay
+        - NumericFormatting772927
+        - RL_Calculations_WithFiltering341562
+        - Test Calendar View Org
+        - CLARIZEN36
+        - FrozenColumns730725
+        - CalendarView108354
+        - Winterfell
+        - tal1
+        - InlineEditorsTest119375
+        - BID122649
+        - '111111'
+        - DD12
+        - mphq5wallacoil
+        - QA mphq6
+        - gdf
+        - EINAT78
+        - EINAT26
+        - acc1 Calendar 454
+        - acc2
+        - EINAT88
+        - rrrrr
+        - RL_WBD_Calculations_WithFiltering676193
+        - RU final
+        - NumericFormatting_Inline66641
+        - Calrizen
+        - Like a Version
+        - EINAT44
+        - Core_BID10831942381
+        - Core_CA_BUGS932628
+        - Core_CA_BID76052500231
+        - newfin
+        - FPTestElad Hahahah Elad
+        - Cla
+        - AbC
+        - ShaniOrg
+        - EladQA1
+        - Elad500
+        - 750WI
+        - SyncAutomation
+        - 454new
+        - sssssss
+        - CLARIZEN19
+        - CO_Admin_emails
+        - Core_BID_CLZDEV_10045910709
+        - Core_BID_CLZDEV_10428787389
+        - exporttest
+        - reports tests
+        - ABCD
+        - exportForImport
+        - epastage
+        - testrate
+        - newru
+        - testrate2
+        - testrate5
+        - timePhaseReportTest
+        - ratecard
+        - ChangeType_FromProj875313
+        - Separate DB GID659638
+        - testi2
+        - erf
+        - TanyaCh1
+        - TanyaCh2  676773
+        - qwerty
+        - CTS_BID92939_Chrome529527
+        - Test 1913 New Org
+        - APIReleaseManagement
+        - solr122
+        - RoniTestOrg
+        - migrationtest1
+        - Llohika test
+        - Clone2Acc1
+        - Clone3
+        - clone4
+        - EINAT_60_Clone2
+        - acc1_clone5
+        - hf9clone
+        - clone 8
+        - clone 9
+        - Ilan
+        - acc2_clone1
+        - clone_einat
+        - >-
+          Lorem ipsum dolor sit amet consectetur adipiscing elit s fgh fgh fgh
+          fgh fgh fgh fg hfgh fgh fgh fg h
+        - RL_QuickFilters_Load_Day
+        - RL_QuickFilters_Load_Week
+        - RL_QuickFilters_Load_Month
+        - RL_QuickFilters_Availability_Day
+        - RL_QuickFilters_Availability_Week
+        - RL_QuickFilters_Availability_Month
+        - RL_QuickFilters_Load_Hours
+        - RL_QuickFilters_Load_FTE
+        - RL_QuickFilters_Load_PersonDays
+        - RL_QuickFilters_RemainingEffort_Load
+        - RL_QuickFilters_RemainingEffort_Availability
+        - RL_QuickFilters_RemainingEffort_Availability_Hours
+        - RL_QuickFilters_RemainingEffort_Availability_FTE
+        - RL_QuickFilters_RemainingEffort_Availability_PersonDays
+        - ChangeType_FromTaskHammock994296
+        - Clarizen test tanya
+        - bastya clone 1
+        - Target
+        - new445
+        - FieldSet_CreateDefaultFieldsOnlyProfile642172
+        - target_25
+        - TestDirtyFlag231757
+        - AuditTrailForWorkItemApps351281
+        - SergeyKarpovichClarizencom
+        - filterbasic_grandChild1
+        - Second1
+        - second11
+        - second22
+        - second33
+        - third11_onsecond22
+        - second33_third2
+        - third22
+        - another1
+        - CV_ColorCoding_Part2_Duration
+        - CV_ColorCoding_Part2_Percent
+        - CV_ColorCoding_Part2_PickList
+        - CV_ColorCoding_Part2_Text
+        - CV_ColorCoding_Part2_Currency
+        - Natalia 2
+        - newfin with BUCP
+    value: '1'
+value: '2'

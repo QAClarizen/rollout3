@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bed72bf610cab1b211bc
+type: experiment
+name: Free Resource Usage Report Memory
+flag: FreeResourceUsageReportMemory
+value: false

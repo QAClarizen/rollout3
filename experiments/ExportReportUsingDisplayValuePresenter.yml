@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bebd6ce373ec28159071
+type: experiment
+name: Export Report Using Display Value Presenter
+flag: ExportReportUsingDisplayValuePresenter
+value: true

@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdb4e524478376ca631f
+type: experiment
+name: Api Calls Throttling Enable Advanced Logging
+flag: ApiCallsThrottlingEnableAdvancedLogging
+conditions:
+  - group:
+      name:
+        - Mariash
+        - mariaclcom
+    value: false
+  - group:
+      name:
+        - SMSC
+        - QAUA
+        - smsc clone refresh testing 6
+    value: true
+value: false

@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdd4e52447066eca66a4
+type: experiment
+name: Business Rules Actions Cache Logging
+flag: BusinessRulesActionsCacheLogging
+conditions:
+  - group:
+      name: vkorg
+    value: false
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - ju_julialiskot
+        - BR_TEST
+    value: true
+value: false

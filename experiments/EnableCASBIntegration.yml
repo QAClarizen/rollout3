@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2be27dbc67e7cfe0d7b05
+type: experiment
+name: Enable CASB Integration
+flag: EnableCASBIntegration
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+    value: true
+value: false

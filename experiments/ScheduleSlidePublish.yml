@@ -1,0 +1,24 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf5aa4f4c1ecc5792766
+type: experiment
+name: Schedule Slide Publish
+flag: ScheduleSlidePublish
+conditions:
+  - group:
+      name:
+        - Einat
+        - Test Downgrade  103636
+        - EINAT18
+        - EINAT95
+        - EINAT98
+        - Clone 1 AABB
+        - Clone Of Clone AABB
+        - clone 11
+        - Float Factor  28929
+        - float00_clone3
+        - Lohika Test Anton 23
+        - OneLogin19278
+        - OneLoginClone
+        - epastage
+    value: true
+value: false

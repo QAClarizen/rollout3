@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf8f6ce373cd14159d46
+type: experiment
+name: Use New Version Of Resource Management
+flag: UseNewVersionOfResourceManagement
+conditions:
+  - group:
+      name: Mariash
+    value: true
+value: false

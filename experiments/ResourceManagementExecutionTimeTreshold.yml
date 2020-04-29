@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bda839f14e29dc6a49b6
+type: experiment
+name: Resource Management Execution Time Treshold
+flag: ResourceManagementExecutionTimeTreshold
+availableValues:
+  - '1'
+value: '1'

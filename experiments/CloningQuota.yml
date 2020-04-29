@@ -1,0 +1,35 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd926ce373b234157057
+type: experiment
+name: Cloning Quota
+flag: CloningQuota
+availableValues:
+  - '0'
+  - '10'
+  - '2'
+  - '3'
+  - '6'
+  - '7'
+conditions:
+  - group:
+      name: SMSC
+    value: '10'
+  - group:
+      name: Vadim QA Cloning
+    value: '2'
+  - group:
+      name:
+        - Test Downgrade  103636
+        - testru Fiscal Calendar  March1
+        - Natalia
+        - MW Org
+    value: '3'
+  - group:
+      name:
+        - 750cf
+        - testclonemany
+    value: '6'
+  - group:
+      name: FilterBasic
+    value: '7'
+value: '0'

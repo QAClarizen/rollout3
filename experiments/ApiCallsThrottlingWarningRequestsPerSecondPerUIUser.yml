@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd83e524471d55ca5e1c
+type: experiment
+name: Api Calls Throttling Warning Requests Per Second Per UI User
+flag: ApiCallsThrottlingWarningRequestsPerSecondPerUIUser
+availableValues:
+  - '0'
+value: '0'

@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf242bf6102538b21803
+type: experiment
+name: Recreate Widget When Widget Not Found
+flag: RecreateWidgetWhenWidgetNotFound
+value: false

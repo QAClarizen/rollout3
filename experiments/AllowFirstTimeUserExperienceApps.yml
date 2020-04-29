@@ -1,0 +1,23 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdaf39f14edcb96a4a88
+type: experiment
+name: Allow First Time User Experience Apps
+flag: AllowFirstTimeUserExperienceApps
+conditions:
+  - group:
+      name:
+        - Mariash
+        - mariaclcom
+    value: false
+  - group:
+      name:
+        - Einat
+        - Test Downgrade  103636
+        - EINAT18
+        - EINAT95
+        - EINAT98
+        - Clone 1 AABB
+        - Clone Of Clone AABB
+        - clone 11
+    value: true
+value: true

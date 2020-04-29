@@ -1,0 +1,29 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd7839f14e9f276a457e
+type: experiment
+name: Api Calls Throttling Requests Per Hour
+flag: ApiCallsThrottlingRequestsPerHour
+availableValues:
+  - '0'
+  - '111'
+  - '200'
+  - '5'
+  - '50'
+conditions:
+  - group:
+      name: Mariash
+    value: '111'
+  - group:
+      name: QAUA
+    value: '200'
+  - group:
+      name:
+        - mariaclcom
+        - throttling2
+    value: '5'
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+    value: '50'
+value: '0'

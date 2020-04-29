@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdcb6ce37380f415777f
+type: experiment
+name: Business Rules Cache Logging
+flag: BusinessRulesCacheLogging
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - ju_julialiskot
+        - BR_TEST
+    value: true
+value: false

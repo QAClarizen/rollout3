@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd8e6ce373d91e156f77
+type: experiment
+name: C Set Number For Statistics Log
+flag: CSetNumberForStatisticsLog
+availableValues:
+  - '0'
+value: '0'

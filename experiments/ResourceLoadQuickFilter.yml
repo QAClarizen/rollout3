@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf42dbc67e8d7c0d9173
+type: experiment
+name: Resource Load Quick Filter
+flag: ResourceLoadQuickFilter
+value: true

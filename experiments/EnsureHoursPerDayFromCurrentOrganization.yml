@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2beb92bf6100057b20fab
+type: experiment
+name: Ensure Hours Per Day From Current Organization
+flag: EnsureHoursPerDayFromCurrentOrganization
+conditions:
+  - group:
+      name: newru
+    value: true
+value: true

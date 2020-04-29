@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2be136ce373033f157dd7
+type: experiment
+name: Enable Assigned Approver
+flag: EnableAssignedApprover
+value: false

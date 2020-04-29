@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf6f2bf610c0eab21d58
+type: experiment
+name: Support Hide Report Grid
+flag: SupportHideReportGrid
+value: true

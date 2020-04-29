@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd86e52447073bca5e59
+type: experiment
+name: Api Calls Throttling Warning Requests Per Second
+flag: ApiCallsThrottlingWarningRequestsPerSecond
+availableValues:
+  - '0'
+  - '2'
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+    value: '2'
+value: '0'

@@ -1,0 +1,21 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdec2bf61060d8b1fc94
+type: experiment
+name: Capacity Planning
+flag: CapacityPlanning
+conditions:
+  - group:
+      name:
+        - QAUA
+        - Lohika Test Anton 23
+    value: false
+  - group:
+      name:
+        - Test Downgrade  103636
+        - EINAT18
+        - Clone 1 AABB
+        - Clone Of Clone AABB
+        - clone 11
+        - WHF155Org_
+    value: true
+value: true

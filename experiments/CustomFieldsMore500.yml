@@ -1,0 +1,30 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdfbdbc67ea35d0d78ae
+type: experiment
+name: Custom Fields More500
+flag: CustomFieldsMore500
+conditions:
+  - group:
+      name:
+        - Einat
+        - Test Downgrade  103636
+        - EINAT18
+        - EINAT95
+        - EINAT98
+        - Clone 1 AABB
+        - Clone Of Clone AABB
+        - clone 11
+    value: false
+  - group:
+      name:
+        - Lohika Test Anton 23
+        - 750cf
+        - ALERTS TEST227793
+        - Programm  483780
+        - 750cf_clone1
+        - 750cf_clone2
+        - 750cf_clone1_clone11
+        - 750cf_clone1_clone12
+        - 750cf_clone1_clone11_Clone111
+    value: true
+value: false

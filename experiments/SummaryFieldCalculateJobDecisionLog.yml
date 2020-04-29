@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf6bdbc67ed5bf0d93f9
+type: experiment
+name: Summary Field Calculate Job Decision Log
+flag: SummaryFieldCalculateJobDecisionLog
+conditions:
+  - group:
+      name:
+        - QAUA
+        - testru Fiscal Calendar  March1
+        - loadlr
+        - _clone2
+        - EINAT60
+        - EINAT_60_Clone2
+        - Ilan
+    value: true
+value: false

@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2be076ce37393a9157d70
+type: experiment
+name: Disable All Business Rules
+flag: DisableAllBusinessRules
+conditions:
+  - group:
+      name: Programm  483780
+    value: false
+value: false

@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2be0e6ce3736d44157d89
+type: experiment
+name: Enable Approval Delegators
+flag: EnableApprovalDelegators
+value: false

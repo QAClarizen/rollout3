@@ -1,0 +1,32 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd9ee5244704bbca6048
+type: experiment
+name: Extend Org Summary Relation Fields Cnt Spec
+flag: ExtendOrgSummaryRelationFieldsCntSpec
+availableValues:
+  - '0'
+  - '35'
+  - '50'
+  - '60'
+conditions:
+  - group:
+      name:
+        - EINAT78
+        - EINAT88
+    value: '35'
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - Clarizen Int
+        - Clarizen int_clone11
+        - Clarizen Int_Clone1
+        - Clarizen Int_Clone2
+    value: '50'
+  - group:
+      name:
+        - EINAT60
+        - EINAT_60_Clone2
+        - Ilan
+    value: '60'
+value: '0'

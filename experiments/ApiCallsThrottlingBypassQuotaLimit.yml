@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdb539f14e5c2f6a4b19
+type: experiment
+name: Api Calls Throttling Bypass Quota Limit
+flag: ApiCallsThrottlingBypassQuotaLimit
+conditions:
+  - group:
+      name:
+        - Mariash
+        - mariaclcom
+    value: false
+value: false

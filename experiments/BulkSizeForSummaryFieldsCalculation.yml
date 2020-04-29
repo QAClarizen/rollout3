@@ -1,0 +1,19 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd8a6ce373cf0c156f71
+type: experiment
+name: Bulk Size For Summary Fields Calculation
+flag: BulkSizeForSummaryFieldsCalculation
+availableValues:
+  - '1'
+  - '5'
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+        - Clarizen Int
+        - Clarizen int_clone11
+        - Clarizen Int_Clone1
+        - Clarizen Int_Clone2
+    value: '5'
+value: '1'

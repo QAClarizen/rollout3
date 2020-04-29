@@ -1,0 +1,22 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd7be524476fb0ca5d3d
+type: experiment
+name: Api Calls Throttling Requests Per Second Per UI User
+flag: ApiCallsThrottlingRequestsPerSecondPerUIUser
+availableValues:
+  - '0'
+  - '1'
+  - '2'
+conditions:
+  - group:
+      name: BR_TEST
+    value: '0'
+  - group:
+      name: QAUA
+    value: '1'
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+    value: '2'
+value: '0'

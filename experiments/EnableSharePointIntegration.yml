@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2be9aa4f4c1205a791c08
+type: experiment
+name: Enable Share Point Integration
+flag: EnableSharePointIntegration
+conditions:
+  - group:
+      name: sksksk
+    value: false
+value: true

@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf13dbc67e6e8f0d8e9a
+type: experiment
+name: Parent Org
+flag: ParentOrg
+conditions:
+  - group:
+      name:
+        - Mariash
+        - SMSC
+        - smsc clone refresh testing 6
+        - Programm  483780
+    value: true
+value: false

@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf36dbc67e3fe70d9117
+type: experiment
+name: Resource Leveling Enabled
+flag: ResourceLevelingEnabled
+value: false

@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bd9339f14e9eee6a4860
+type: experiment
+name: Cached Business Rules Expiration Value
+flag: CachedBusinessRulesExpirationValue
+availableValues:
+  - '10'
+value: '10'

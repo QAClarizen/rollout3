@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bf672bf610e775b21d2e
+type: experiment
+name: Show Slow Relations In Grid
+flag: ShowSlowRelationsInGrid
+value: false

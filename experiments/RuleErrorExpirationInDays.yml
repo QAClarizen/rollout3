@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2bdac39f14eaa4a6a4a44
+type: experiment
+name: Rule Error Expiration In Days
+flag: RuleErrorExpirationInDays
+availableValues:
+  - '0'
+  - '-1'
+conditions:
+  - group:
+      name:
+        - SMSC
+        - smsc clone refresh testing 6
+    value: '0'
+value: '-1'

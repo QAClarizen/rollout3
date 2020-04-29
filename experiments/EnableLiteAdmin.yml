@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea2be566ce373df8b1586f4
+type: experiment
+name: Enable Lite Admin
+flag: EnableLiteAdmin
+value: true

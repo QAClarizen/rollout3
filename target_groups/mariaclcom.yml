@@ -1,0 +1,7 @@
+type: target-group
+name: mariaclcom
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '818000'
