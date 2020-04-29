@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a03845f9254d09001afa
+type: experiment
+name: 31a_ Enable Download With Long Time Job
+flag: 31a_EnableDownloadWithLongTimeJob
+conditions:
+  - group:
+      name: 31a_loadlr
+    value: true
+value: false
