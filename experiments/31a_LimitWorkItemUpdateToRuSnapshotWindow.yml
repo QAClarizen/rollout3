@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a11c45f925365700287d
+type: experiment
+name: 31a_ Limit Work Item Update To Ru Snapshot Window
+flag: 31a_LimitWorkItemUpdateToRuSnapshotWindow
+conditions:
+  - group:
+      name:
+        - 31a_testru Fiscal Calendar  March1
+        - 31a_newru
+    value: false
+  - group:
+      name:
+        - 31a_testfrozen  Fiscal Year Start 1March
+        - 31a_newfin
+    value: true
+value: true
