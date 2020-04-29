@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0bfcae01ffc181ec9e2
+type: experiment
+name: 31a_ Enable Team Member View
+flag: 31a_EnableTeamMemberView
+value: false
