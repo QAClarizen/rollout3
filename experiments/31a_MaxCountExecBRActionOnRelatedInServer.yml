@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f75de35c1459962142a
+type: experiment
+name: 31a_ Max Count Exec BR Action On Related In Server
+flag: 31a_MaxCountExecBRActionOnRelatedInServer
+availableValues:
+  - '1500'
+  - '1700'
+conditions:
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+    value: '1700'
+value: '1500'
