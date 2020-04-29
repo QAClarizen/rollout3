@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a13818d4de16ddbead0a
+type: experiment
+name: 31a_ Parent Org
+flag: 31a_ParentOrg
+conditions:
+  - group:
+      name:
+        - 31a_Mariash
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+        - 31a_Programm  483780
+    value: true
+value: false
