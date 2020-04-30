@@ -1,0 +1,23 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9dd515a85e5d3c4c8cb2
+type: experiment
+name: 916_ Allow First Time User Experience Apps
+flag: 916_AllowFirstTimeUserExperienceApps
+conditions:
+  - group:
+      name:
+        - 916_Mariash
+        - 916_mariaclcom
+    value: false
+  - group:
+      name:
+        - 916_Einat
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_EINAT95
+        - 916_EINAT98
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+    value: true
+value: true
