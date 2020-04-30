@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9ddc15a85e62114c8d07
+type: experiment
+name: 916_ Api Calls Throttling Enable Advanced Logging
+flag: 916_ApiCallsThrottlingEnableAdvancedLogging
+conditions:
+  - group:
+      name:
+        - 916_Mariash
+        - 916_mariaclcom
+    value: false
+  - group:
+      name:
+        - 916_SMSC
+        - 916_QAUA
+        - 916_smsc clone refresh testing 6
+    value: true
+value: false
