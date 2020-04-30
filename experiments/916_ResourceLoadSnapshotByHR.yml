@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa1546c31da624e8c5dd0
+type: experiment
+name: 916_ Resource Load Snapshot By HR
+flag: 916_ResourceLoadSnapshotByHR
+conditions:
+  - group:
+      name:
+        - 916_testru Fiscal Calendar  March1
+        - 916_testfrozen  Fiscal Year Start 1March
+    value: true
+value: true
