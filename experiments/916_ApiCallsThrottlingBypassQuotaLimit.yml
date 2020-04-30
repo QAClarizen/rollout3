@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9dfa15a85ee5644c8e77
+type: experiment
+name: 916_ Api Calls Throttling Bypass Quota Limit
+flag: 916_ApiCallsThrottlingBypassQuotaLimit
+conditions:
+  - group:
+      name:
+        - 916_Mariash
+        - 916_mariaclcom
+    value: false
+value: false
