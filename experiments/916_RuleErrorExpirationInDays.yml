@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9dcd5b9bc1edd4e101db
+type: experiment
+name: 916_ Rule Error Expiration In Days
+flag: 916_RuleErrorExpirationInDays
+availableValues:
+  - '0'
+  - '-1'
+conditions:
+  - group:
+      name:
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+    value: '0'
+value: '-1'
