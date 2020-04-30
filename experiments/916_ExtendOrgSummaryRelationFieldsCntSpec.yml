@@ -1,0 +1,32 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9dbf15a85ea0d24c88d3
+type: experiment
+name: 916_ Extend Org Summary Relation Fields Cnt Spec
+flag: 916_ExtendOrgSummaryRelationFieldsCntSpec
+availableValues:
+  - '0'
+  - '35'
+  - '50'
+  - '60'
+conditions:
+  - group:
+      name:
+        - 916_EINAT78
+        - 916_EINAT88
+    value: '35'
+  - group:
+      name:
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+        - 916_Clarizen Int
+        - 916_Clarizen int_clone11
+        - 916_Clarizen Int_Clone1
+        - 916_Clarizen Int_Clone2
+    value: '50'
+  - group:
+      name:
+        - 916_EINAT60
+        - 916_EINAT_60_Clone2
+        - 916_Ilan
+    value: '60'
+value: '0'
