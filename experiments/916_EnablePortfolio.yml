@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9f98e0e19fe95c3b4fd7
+type: experiment
+name: 916_ Enable Portfolio
+flag: 916_EnablePortfolio
+conditions:
+  - group:
+      name: 916_EINAT88
+    value: true
+value: true
