@@ -1,0 +1,20 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e8f5b9bc12ed0e1166c
+type: experiment
+name: 916_ Custom Objects
+flag: 916_CustomObjects
+conditions:
+  - group:
+      name:
+        - 916_Float Factor  28929
+        - 916_float00_clone3
+    value: false
+  - group:
+      name:
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+    value: true
+value: true
