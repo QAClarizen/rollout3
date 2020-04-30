@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa1435683360aeda15fb1
+type: experiment
+name: 916_ Resource Load Frozen Columns
+flag: 916_ResourceLoadFrozenColumns
+value: true
