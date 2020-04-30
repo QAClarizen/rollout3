@@ -1,0 +1,27 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d1515a85ef4174c78b3
+type: experiment
+name: 916_ Api Calls Throttling Requests Per Second
+flag: 916_ApiCallsThrottlingRequestsPerSecond
+availableValues:
+  - '0'
+  - '1'
+  - '3'
+  - '7'
+  - '9'
+conditions:
+  - group:
+      name: 916_QAUA
+    value: '1'
+  - group:
+      name:
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+    value: '3'
+  - group:
+      name: 916_Mariash
+    value: '7'
+  - group:
+      name: 916_mariaclcom
+    value: '9'
+value: '0'
