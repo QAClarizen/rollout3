@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa1441ab66288c8318bb5
+type: experiment
+name: 916_ Resource Load Show Work Plan
+flag: 916_ResourceLoadShowWorkPlan
+value: true
