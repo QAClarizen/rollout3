@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa00cb840a671395dcf43
+type: experiment
+name: 916_ Enable Version Management
+flag: 916_EnableVersionManagement
+value: true
