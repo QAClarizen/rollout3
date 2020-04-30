@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0756c31dafd968c511c
+type: experiment
+name: 916_ Ignore Api Updates With Same Values
+flag: 916_IgnoreApiUpdatesWithSameValues
+value: false
