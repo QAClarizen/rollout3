@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e1b15a85e5d2a4c91ab
+type: experiment
+name: 916_ Business Rules Cache Logging
+flag: 916_BusinessRulesCacheLogging
+conditions:
+  - group:
+      name:
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+        - 916_ju_julialiskot
+        - 916_BR_TEST
+    value: true
+value: false
