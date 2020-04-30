@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9eca15a85e735b4ca074
+type: experiment
+name: 916_ Enable Async Events Graph Load
+flag: 916_EnableAsyncEventsGraphLoad
+value: false
