@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e2b15a85eabbd4c93d6
+type: experiment
+name: 916_ Calculate FP Percent Fields By Agg Values
+flag: 916_CalculateFPPercentFieldsByAggValues
+conditions:
+  - group:
+      name:
+        - 916_Mariash
+        - 916_mariaclcom
+        - 916_testru Fiscal Calendar  March1
+        - 916_loadlr
+    value: true
+value: false
