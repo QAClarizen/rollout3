@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9f9eb840a67f285dca69
+type: experiment
+name: 916_ Enable Portal EKM
+flag: 916_EnablePortalEKM
+conditions:
+  - group:
+      name: 916_Mariash
+    value: false
+  - group:
+      name:
+        - 916_QAUA
+        - 916_EINAT60
+    value: true
+value: true
