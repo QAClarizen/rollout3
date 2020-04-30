@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d44810b4b3ca10b935d
+type: experiment
+name: 916_ Api Calls Throttling Warning Requests Per Second Per UI User
+flag: 916_ApiCallsThrottlingWarningRequestsPerSecondPerUIUser
+availableValues:
+  - '0'
+value: '0'
