@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa1276c31da9d6b8c5b58
+type: experiment
+name: 916_ Report ACL Join Optimization
+flag: 916_ReportACLJoinOptimization
+conditions:
+  - group:
+      name:
+        - 916_loadlr
+        - 916_OneLogin19278
+        - 916_OneLoginClone
+        - 916_orgFilterEnh
+    value: true
+value: false
