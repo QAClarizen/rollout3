@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9edd3110c0a32c02382e
+type: experiment
+name: 916_ Enable Binary Content In Customization
+flag: 916_EnableBinaryContentInCustomization
+conditions:
+  - group:
+      name:
+        - 916_Float Factor  28929
+        - 916_float00_clone3
+    value: false
+  - group:
+      name: 916_Like a Version
+    value: true
+value: false
