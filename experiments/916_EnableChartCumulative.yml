@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9eee5b9bc1379de11e4f
+type: experiment
+name: 916_ Enable Chart Cumulative
+flag: 916_EnableChartCumulative
+value: true
