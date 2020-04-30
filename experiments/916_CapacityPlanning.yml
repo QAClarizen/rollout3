@@ -1,0 +1,21 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e520abb4a23b6daf9d6
+type: experiment
+name: 916_ Capacity Planning
+flag: 916_CapacityPlanning
+conditions:
+  - group:
+      name:
+        - 916_QAUA
+        - 916_Lohika Test Anton 23
+    value: false
+  - group:
+      name:
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+        - 916_WHF155Org_
+    value: true
+value: true
