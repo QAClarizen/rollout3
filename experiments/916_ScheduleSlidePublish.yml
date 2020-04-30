@@ -1,0 +1,24 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa1601ab662660f318ccc
+type: experiment
+name: 916_ Schedule Slide Publish
+flag: 916_ScheduleSlidePublish
+conditions:
+  - group:
+      name:
+        - 916_Einat
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_EINAT95
+        - 916_EINAT98
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+        - 916_Float Factor  28929
+        - 916_float00_clone3
+        - 916_Lohika Test Anton 23
+        - 916_OneLogin19278
+        - 916_OneLoginClone
+        - 916_epastage
+    value: true
+value: false

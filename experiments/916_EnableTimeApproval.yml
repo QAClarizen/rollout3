@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0016c31da07738c46ed
+type: experiment
+name: 916_ Enable Time Approval
+flag: 916_EnableTimeApproval
+value: false

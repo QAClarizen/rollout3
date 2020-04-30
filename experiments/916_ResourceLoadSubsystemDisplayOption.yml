@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa157b840a6d24e5de3cf
+type: experiment
+name: 916_ Resource Load Subsystem Display Option
+flag: 916_ResourceLoadSubsystemDisplayOption
+conditions:
+  - group:
+      name: 916_testrl
+    value: false
+value: false

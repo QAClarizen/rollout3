@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9ec23110c094110235d3
+type: experiment
+name: 916_ Enable Assigned Approver
+flag: 916_EnableAssignedApprover
+value: false

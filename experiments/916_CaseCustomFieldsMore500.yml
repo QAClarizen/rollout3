@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e47da5145512ad072ca
+type: experiment
+name: 916_ Case Custom Fields More500
+flag: 916_CaseCustomFieldsMore500
+value: false

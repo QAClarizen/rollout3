@@ -1,0 +1,30 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e825b9bc1004de115d7
+type: experiment
+name: 916_ Custom Fields More500
+flag: 916_CustomFieldsMore500
+conditions:
+  - group:
+      name:
+        - 916_Einat
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_EINAT95
+        - 916_EINAT98
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+    value: false
+  - group:
+      name:
+        - 916_Lohika Test Anton 23
+        - 916_750cf
+        - 916_ALERTS TEST227793
+        - 916_Programm  483780
+        - 916_750cf_clone1
+        - 916_750cf_clone2
+        - 916_750cf_clone1_clone11
+        - 916_750cf_clone1_clone12
+        - 916_750cf_clone1_clone11_Clone111
+    value: true
+value: false

@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa12f5683367463a15db1
+type: experiment
+name: 916_ Report Grouping Icons And Links
+flag: 916_ReportGroupingIconsAndLinks
+conditions:
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: true
+value: true

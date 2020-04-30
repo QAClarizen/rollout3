@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa18bb840a65bb75de76f
+type: experiment
+name: 916_ Summary Field Calculate Optimistic Decision
+flag: 916_SummaryFieldCalculateOptimisticDecision
+value: false

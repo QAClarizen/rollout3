@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0ea96e764669e173787
+type: experiment
+name: 916_ Project Billing Type
+flag: 916_ProjectBillingType
+value: true

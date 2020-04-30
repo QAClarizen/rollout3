@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e97da5145393ad077b5
+type: experiment
+name: 916_ Dependent Layouts
+flag: 916_DependentLayouts
+conditions:
+  - group:
+      name:
+        - 916_Einat
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_EINAT95
+        - 916_EINAT98
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+    value: true
+value: true

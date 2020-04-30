@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e030abb4a3a31daf2e9
+type: experiment
+name: 916_ Api Tokens
+flag: 916_ApiTokens
+conditions:
+  - group:
+      name: 916_sksksksk
+    value: true
+value: false

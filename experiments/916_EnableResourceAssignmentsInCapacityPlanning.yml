@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9fa05b9bc1cc8ce1285c
+type: experiment
+name: 916_ Enable Resource Assignments In Capacity Planning
+flag: 916_EnableResourceAssignmentsInCapacityPlanning
+conditions:
+  - group:
+      name: 916_testrate2
+    value: false
+  - group:
+      name:
+        - 916_Winterfell
+        - 916_Like a Version
+    value: true
+value: false

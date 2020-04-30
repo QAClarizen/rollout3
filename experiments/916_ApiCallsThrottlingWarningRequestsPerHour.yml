@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d2dda4e811b8d1d387f
+type: experiment
+name: 916_ Api Calls Throttling Warning Requests Per Hour
+flag: 916_ApiCallsThrottlingWarningRequestsPerHour
+availableValues:
+  - '0'
+  - '5'
+conditions:
+  - group:
+      name:
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+    value: '5'
+value: '0'

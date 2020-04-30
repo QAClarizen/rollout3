@@ -1,0 +1,266 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9da83aaa8a2d0be8f7e5
+type: experiment
+name: 916_ Derived Dependencies Special Treatment
+flag: 916_DerivedDependenciesSpecialTreatment
+availableValues:
+  - '1'
+  - '2'
+conditions:
+  - group:
+      name:
+        - 916_Einat
+        - 916_Test Downgrade  103636
+        - 916_EINAT18
+        - 916_EINAT95
+        - 916_EINAT98
+        - 916_Clone 1 AABB
+        - 916_Clone Of Clone AABB
+        - 916_clone 11
+        - 916_SMSC
+        - 916_QAUA
+        - 916_smsc clone refresh testing 6
+        - 916_ju_julialiskot
+        - 916_vkorg
+        - 916_throttling2
+        - 916_BR_TEST
+        - 916_throttling
+        - 916_Clarizen Int
+        - 916_Clarizen int_clone11
+        - 916_Clarizen Int_Clone1
+        - 916_Clarizen Int_Clone2
+        - 916_testru Fiscal Calendar  March1
+        - 916_loadlr
+        - 916_Float Factor  28929
+        - 916_testrm  no Fiscal Year
+        - 916_float00_clone3
+        - 916_Lohika Test Anton 23
+        - 916_WHF155Org_
+        - 916_Natalia
+        - 916_750cf
+        - 916_FilterBasic
+        - 916__clone2
+        - 916_OneLogin19278
+        - 916_OneLoginClone
+        - 916_acc3
+        - 916_upgradedToEnhanced
+        - 916_upgradedToBasic
+        - 916_ALERTS TEST227793
+        - 916_Programm  483780
+        - 916_750cf_clone1
+        - 916_750cf_clone2
+        - 916_750cf_clone1_clone11
+        - 916_750cf_clone1_clone12
+        - 916_750cf_clone1_clone11_Clone111
+        - 916_Dashboard Auto Test
+        - 916_Template Repository
+        - 916_test4235345
+        - 916_Acme Corp
+        - 916_Gossip Girl TV Show12595
+        - 916_Bastya12972
+        - '916_888'
+        - 916_STOP Saturday and Sunday 8h  OrgID13315
+        - 916_Clarizen Products Team
+        - 916_Terra Incognita
+        - 916_Template Repository _
+        - '916_444'
+        - 916_Burda Moden
+        - 916_asherorg
+        - 916_FBI  19759
+        - 916_michal
+        - 916_QA27819
+        - 916_ELC engagement request
+        - 916_Clarizen Ophir
+        - 916_orgFilterEnh
+        - 916_3Base Org
+        - 916_v6upgrade1 HF46
+        - 916_v6upgrade2
+        - 916_Mail
+        - 916_Orgrov
+        - 916_e35r34t
+        - 916_FrozenColumns_WorkPlanOnly32757
+        - 916_AA
+        - 916_QAA
+        - 916_Shay Test Account III
+        - 916_Meidan Inc
+        - 916_Team 007
+        - 916_XSS880880
+        - 916_InterActTECCAssign770770
+        - 916_OKTA_QA
+        - 916_Performance
+        - 916_Lior20140730 140008
+        - 916_ChartViewsFR5
+        - 916_ChangeType_FromTaskHammock612549
+        - 916_FrozenColumns_WorkPlan7307251
+        - 916_FindAndReplaceManager279322
+        - 916_DataLoaderWorkItemsWithLinks410157
+        - 916_London 114312
+        - 916_ShortcutsRegressionTest469860
+        - 916_ShortcutsRegressionTest822531
+        - 916_First Task
+        - 916_RolesAndAuthorizations_External555705
+        - 916_RolesAndAuthorizations_Internal272064
+        - 916_FieldSet_OnlyDefaultFields794462
+        - 916_FieldSet_AggregationTest751070
+        - 916_FieldSet_AggregationFinancialSuperUser76157
+        - 916_FieldSet_DefaultProfileImpact926361
+        - 916_FieldsSet_AggregateNoAggregateDefaultProfile623546
+        - 916_ProfilesSanityForAllSections5120
+        - 916_Clarizen test account
+        - 916_testbp1
+        - 916_Calendar view
+        - 916_Testing Environment
+        - 916_ProfilesBugs42688
+        - 916_CLARIZEN65
+        - 916_ProfilesPermissionsOnViews924705
+        - 916_HighLightSelectedField868612
+        - 916_ProfilesWithCustomizationAndInteract728723
+        - 916_liadqa
+        - 916_Elad MM  184706
+        - 916_EINAT90
+        - 916_dinaAnkonina
+        - 916_HighLightCustomField44732
+        - 916_RL_VerifyFilters508403
+        - 916_ConditionalFormatting822628
+        - '916_71'
+        - 916_EINAT77
+        - 916_EINAT55
+        - 916_hf43testedition
+        - 916_testrl
+        - 916_Cobra 199543
+        - 916_EINAT60
+        - 916_testfrozen  Fiscal Year Start 1March
+        - 916_RL_QuickFilters89167
+        - 916_Test000
+        - 916_mmbasic
+        - 916_ChangeType_FromMS989300
+        - '916_12'
+        - 916_RL_VerifyLinksFilters746791
+        - 916_MultiManager651927
+        - 916_AutomationShay
+        - 916_NumericFormatting772927
+        - 916_RL_Calculations_WithFiltering341562
+        - 916_Test Calendar View Org
+        - 916_CLARIZEN36
+        - 916_FrozenColumns730725
+        - 916_CalendarView108354
+        - 916_Winterfell
+        - 916_tal1
+        - 916_InlineEditorsTest119375
+        - 916_BID122649
+        - '916_111111'
+        - 916_DD12
+        - 916_mphq5wallacoil
+        - 916_QA mphq6
+        - 916_gdf
+        - 916_EINAT78
+        - 916_EINAT26
+        - 916_acc1 Calendar 454
+        - 916_acc2
+        - 916_EINAT88
+        - 916_rrrrr
+        - 916_RL_WBD_Calculations_WithFiltering676193
+        - 916_RU final
+        - 916_NumericFormatting_Inline66641
+        - 916_Calrizen
+        - 916_Like a Version
+        - 916_EINAT44
+        - 916_Core_BID10831942381
+        - 916_Core_CA_BUGS932628
+        - 916_Core_CA_BID76052500231
+        - 916_newfin
+        - 916_FPTestElad Hahahah Elad
+        - 916_Cla
+        - 916_AbC
+        - 916_ShaniOrg
+        - 916_EladQA1
+        - 916_Elad500
+        - 916_750WI
+        - 916_SyncAutomation
+        - 916_454new
+        - 916_sssssss
+        - 916_CLARIZEN19
+        - 916_CO_Admin_emails
+        - 916_Core_BID_CLZDEV_10045910709
+        - 916_Core_BID_CLZDEV_10428787389
+        - 916_exporttest
+        - 916_reports tests
+        - 916_ABCD
+        - 916_exportForImport
+        - 916_epastage
+        - 916_testrate
+        - 916_newru
+        - 916_testrate2
+        - 916_testrate5
+        - 916_timePhaseReportTest
+        - 916_ratecard
+        - 916_ChangeType_FromProj875313
+        - 916_Separate DB GID659638
+        - 916_testi2
+        - 916_erf
+        - 916_TanyaCh1
+        - 916_TanyaCh2  676773
+        - 916_qwerty
+        - 916_CTS_BID92939_Chrome529527
+        - 916_Test 1913 New Org
+        - 916_APIReleaseManagement
+        - 916_solr122
+        - 916_RoniTestOrg
+        - 916_migrationtest1
+        - 916_Llohika test
+        - 916_Clone2Acc1
+        - 916_Clone3
+        - 916_clone4
+        - 916_EINAT_60_Clone2
+        - 916_acc1_clone5
+        - 916_hf9clone
+        - 916_clone 8
+        - 916_clone 9
+        - 916_Ilan
+        - 916_acc2_clone1
+        - 916_clone_einat
+        - >-
+          916_Lorem ipsum dolor sit amet consectetur adipiscing elit s fgh fgh
+          fgh fgh fgh fgh fg hfgh fgh fgh fg h
+        - 916_RL_QuickFilters_Load_Day
+        - 916_RL_QuickFilters_Load_Week
+        - 916_RL_QuickFilters_Load_Month
+        - 916_RL_QuickFilters_Availability_Day
+        - 916_RL_QuickFilters_Availability_Week
+        - 916_RL_QuickFilters_Availability_Month
+        - 916_RL_QuickFilters_Load_Hours
+        - 916_RL_QuickFilters_Load_FTE
+        - 916_RL_QuickFilters_Load_PersonDays
+        - 916_RL_QuickFilters_RemainingEffort_Load
+        - 916_RL_QuickFilters_RemainingEffort_Availability
+        - 916_RL_QuickFilters_RemainingEffort_Availability_Hours
+        - 916_RL_QuickFilters_RemainingEffort_Availability_FTE
+        - 916_RL_QuickFilters_RemainingEffort_Availability_PersonDays
+        - 916_ChangeType_FromTaskHammock994296
+        - 916_Clarizen test tanya
+        - 916_bastya clone 1
+        - 916_Target
+        - 916_new445
+        - 916_FieldSet_CreateDefaultFieldsOnlyProfile642172
+        - 916_target_25
+        - 916_TestDirtyFlag231757
+        - 916_AuditTrailForWorkItemApps351281
+        - 916_SergeyKarpovichClarizencom
+        - 916_filterbasic_grandChild1
+        - 916_Second1
+        - 916_second11
+        - 916_second22
+        - 916_second33
+        - 916_third11_onsecond22
+        - 916_second33_third2
+        - 916_third22
+        - 916_another1
+        - 916_CV_ColorCoding_Part2_Duration
+        - 916_CV_ColorCoding_Part2_Percent
+        - 916_CV_ColorCoding_Part2_PickList
+        - 916_CV_ColorCoding_Part2_Text
+        - 916_CV_ColorCoding_Part2_Currency
+        - 916_Natalia 2
+        - 916_newfin with BUCP
+    value: '1'
+value: '2'

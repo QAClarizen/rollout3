@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0ef08e0f00a8804f5b3
+type: experiment
+name: 916_ Postpone Queue Items On Api Bulk Request
+flag: 916_PostponeQueueItemsOnApiBulkRequest
+conditions:
+  - group:
+      name:
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+    value: true
+value: false

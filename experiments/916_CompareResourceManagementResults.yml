@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e680abb4a250ddafb39
+type: experiment
+name: 916_ Compare Resource Management Results
+flag: 916_CompareResourceManagementResults
+conditions:
+  - group:
+      name: 916_mariaclcom
+    value: true
+value: false

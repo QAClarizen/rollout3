@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0e5568336b992a158ee
+type: experiment
+name: 916_ Parent Org
+flag: 916_ParentOrg
+conditions:
+  - group:
+      name:
+        - 916_Mariash
+        - 916_SMSC
+        - 916_smsc clone refresh testing 6
+        - 916_Programm  483780
+    value: true
+value: false

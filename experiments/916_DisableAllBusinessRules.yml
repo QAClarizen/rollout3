@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9ea33110c04db502354d
+type: experiment
+name: 916_ Disable All Business Rules
+flag: 916_DisableAllBusinessRules
+conditions:
+  - group:
+      name: 916_Programm  483780
+    value: false
+value: false

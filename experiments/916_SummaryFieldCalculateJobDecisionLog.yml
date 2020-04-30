@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa18c96e7640830174189
+type: experiment
+name: 916_ Summary Field Calculate Job Decision Log
+flag: 916_SummaryFieldCalculateJobDecisionLog
+conditions:
+  - group:
+      name:
+        - 916_QAUA
+        - 916_testru Fiscal Calendar  March1
+        - 916_loadlr
+        - 916__clone2
+        - 916_EINAT60
+        - 916_EINAT_60_Clone2
+        - 916_Ilan
+    value: true
+value: false

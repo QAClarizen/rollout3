@@ -1,0 +1,16 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d943aaa8a35f6e8f692
+type: experiment
+name: 916_ Custom Actions Per Class Quota
+flag: 916_CustomActionsPerClassQuota
+availableValues:
+  - '0'
+  - '4'
+conditions:
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: '0'
+  - group:
+      name: 916_acc3
+    value: '4'
+value: '0'

@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa11996e7640e161739e2
+type: experiment
+name: 916_ Report Fields Relabeling
+flag: 916_ReportFieldsRelabeling
+conditions:
+  - group:
+      name: 916_upgradedToEnhanced
+    value: false
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: true
+value: true

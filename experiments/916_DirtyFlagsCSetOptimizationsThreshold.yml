@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9db115a85e20374c87da
+type: experiment
+name: 916_ Dirty Flags C Set Optimizations Threshold
+flag: 916_DirtyFlagsCSetOptimizationsThreshold
+availableValues:
+  - '0'
+  - '1500'
+conditions:
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: '1500'
+value: '0'

@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9f0f50e5b0f6b05b26a3
+type: experiment
+name: 916_ Enable Employment History
+flag: 916_EnableEmploymentHistory
+conditions:
+  - group:
+      name:
+        - 916_testru Fiscal Calendar  March1
+        - 916_loadlr
+        - 916_Like a Version
+        - 916_testrate5
+        - 916_ratecard
+        - 916_testi2
+        - 916_new445
+    value: true
+value: true

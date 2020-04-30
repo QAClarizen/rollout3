@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa19bb840a619615de80b
+type: experiment
+name: >-
+  916_ Task And Project Assignment Not Affected By Project Ignore Resource
+  Calendar
+flag: 916_TaskAndProjectAssignmentNotAffectedByProjectIgnoreResourceCalendar
+conditions:
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: true
+value: true

@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e8f3110c045f10232a7
+type: experiment
+name: 916_ Digital Proofing Type Selector
+flag: 916_DigitalProofingTypeSelector
+conditions:
+  - group:
+      name:
+        - 916_Float Factor  28929
+        - 916_float00_clone3
+        - 916_OneLogin19278
+        - 916_OneLoginClone
+        - 916_Elad MM  184706
+        - 916_Like a Version
+        - 916_epastage
+    value: true
+value: false

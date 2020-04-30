@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0890bb7832ea756cef8
+type: experiment
+name: 916_ License Sub System
+flag: 916_LicenseSubSystem
+value: true

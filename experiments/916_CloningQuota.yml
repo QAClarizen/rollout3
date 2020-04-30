@@ -1,0 +1,35 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d97e49d81147172695c
+type: experiment
+name: 916_ Cloning Quota
+flag: 916_CloningQuota
+availableValues:
+  - '0'
+  - '10'
+  - '2'
+  - '3'
+  - '6'
+  - '7'
+conditions:
+  - group:
+      name: 916_SMSC
+    value: '10'
+  - group:
+      name: 916_Vadim QA Cloning
+    value: '2'
+  - group:
+      name:
+        - 916_Test Downgrade  103636
+        - 916_testru Fiscal Calendar  March1
+        - 916_Natalia
+        - 916_MW Org
+    value: '3'
+  - group:
+      name:
+        - 916_750cf
+        - 916_testclonemany
+    value: '6'
+  - group:
+      name: 916_FilterBasic
+    value: '7'
+value: '0'

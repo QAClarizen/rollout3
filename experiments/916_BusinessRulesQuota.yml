@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d6315a85e13544c82df
+type: experiment
+name: 916_ Business Rules Quota
+flag: 916_BusinessRulesQuota
+availableValues:
+  - '0'
+  - '450'
+conditions:
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: '450'
+value: '0'

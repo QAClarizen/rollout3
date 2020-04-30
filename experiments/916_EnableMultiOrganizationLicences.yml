@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9f5ae1573f575b8828f1
+type: experiment
+name: 916_ Enable Multi Organization Licences
+flag: 916_EnableMultiOrganizationLicences
+conditions:
+  - group:
+      name: 916_SMSC
+    value: false
+  - group:
+      name: 916_Programm  483780
+    value: true
+value: false

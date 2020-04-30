@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa02b48d0cf54b17464c9
+type: experiment
+name: 916_ Extend Org Summary Relation Fields Cnt To25
+flag: 916_ExtendOrgSummaryRelationFieldsCntTo25
+conditions:
+  - group:
+      name:
+        - 916_Float Factor  28929
+        - 916_float00_clone3
+        - 916_EINAT60
+        - 916_EINAT78
+        - 916_EINAT88
+        - 916_EINAT_60_Clone2
+        - 916_Ilan
+    value: true
+value: false

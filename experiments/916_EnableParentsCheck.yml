@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9f895b9bc171f7e1276b
+type: experiment
+name: 916_ Enable Parents Check
+flag: 916_EnableParentsCheck
+value: false

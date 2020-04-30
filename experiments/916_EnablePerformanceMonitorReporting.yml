@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9f94e1573f419f882b13
+type: experiment
+name: 916_ Enable Performance Monitor Reporting
+flag: 916_EnablePerformanceMonitorReporting
+conditions:
+  - group:
+      name: 916_SMSC
+    value: false
+  - group:
+      name: 916_APIReleaseManagement
+    value: true
+value: false

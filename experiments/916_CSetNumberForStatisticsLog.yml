@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9d72e49d81053c72679d
+type: experiment
+name: 916_ C Set Number For Statistics Log
+flag: 916_CSetNumberForStatisticsLog
+availableValues:
+  - '0'
+value: '0'
