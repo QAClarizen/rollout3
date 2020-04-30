@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9dda68bc4d2d9c410604
+type: experiment
+name: 916_ Resource Management Size Treshold
+flag: 916_ResourceManagementSizeTreshold
+availableValues:
+  - '100'
+  - '50000'
+conditions:
+  - group:
+      name: 916_ju_julialiskot
+    value: '50000'
+value: '100'
