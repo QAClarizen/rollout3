@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e130abb4adbe9daf461
+type: experiment
+name: 916_ Business Rule Trace Error
+flag: 916_BusinessRuleTraceError
+conditions:
+  - group:
+      name: 916_testru Fiscal Calendar  March1
+    value: true
+value: false
