@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e493110c043e0022b7b
+type: experiment
+name: 916_ Calculate WI Fin Planning Fields
+flag: 916_CalculateWIFinPlanningFields
+conditions:
+  - group:
+      name:
+        - 916_Float Factor  28929
+        - 916_testrm  no Fiscal Year
+        - 916_float00_clone3
+    value: true
+value: false
