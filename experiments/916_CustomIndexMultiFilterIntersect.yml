@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaa9e770abb4a2094dafcb2
+type: experiment
+name: 916_ Custom Index Multi Filter Intersect
+flag: 916_CustomIndexMultiFilterIntersect
+value: true
