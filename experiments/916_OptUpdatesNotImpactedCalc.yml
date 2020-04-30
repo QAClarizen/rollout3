@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eaaa0c76c31da857d8c5556
+type: experiment
+name: 916_ Opt Updates Not Impacted Calc
+flag: 916_OptUpdatesNotImpactedCalc
+conditions:
+  - group:
+      name:
+        - 916_testru Fiscal Calendar  March1
+        - 916__clone2
+    value: false
+  - group:
+      name:
+        - 916_testrate2
+        - 916_ratecard
+    value: true
+value: false
