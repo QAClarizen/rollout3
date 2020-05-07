@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fa7de35c11c936217c4
+type: experiment
+name: 31a_ Business Rules Actions Cache Logging
+flag: 31a_BusinessRulesActionsCacheLogging
+conditions:
+  - group:
+      name: 31a_vkorg
+    value: false
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+        - 31a_ju_julialiskot
+        - 31a_BR_TEST
+    value: true
+value: false

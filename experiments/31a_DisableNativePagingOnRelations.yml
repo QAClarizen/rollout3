@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fdfde35c13d88621c9d
+type: experiment
+name: 31a_ Disable Native Paging On Relations
+flag: 31a_DisableNativePagingOnRelations
+conditions:
+  - group:
+      name: 31a_acc1 Calendar 454
+    value: true
+value: false

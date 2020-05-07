@@ -1,7 +1,0 @@
-type: target-group
-name: 31a_gdf
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '283355'

@@ -1,0 +1,14 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a15c18d4dee1a0beaf3a
+type: experiment
+name: 31a_ Preload Action Clobs
+flag: 31a_PreloadActionClobs
+conditions:
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_smsc clone refresh testing 6
+        - 31a_vkorg
+        - 31a_BR_TEST
+    value: true
+value: false

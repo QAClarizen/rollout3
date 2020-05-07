@@ -1,0 +1,12 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fd545f9251ccf00112e
+type: experiment
+name: 31a_ Dashboard Snapshot Optimization
+flag: 31a_DashboardSnapshotOptimization
+conditions:
+  - group:
+      name:
+        - 31a_loadlr
+        - 31a_Dashboard Auto Test
+    value: true
+value: true

@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f93cae01f0b4f1eb1b6
+type: experiment
+name: 31a_ Api Tokens
+flag: 31a_ApiTokens
+conditions:
+  - group:
+      name: 31a_sksksksk
+    value: true
+value: false

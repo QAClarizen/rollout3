@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a032f8c61b677c0d07fd
+type: experiment
+name: 31a_ Enable Environment Cloning
+flag: 31a_EnableEnvironmentCloning
+value: true

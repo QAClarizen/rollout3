@@ -1,0 +1,16 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a1ddfc0e306115bd4d06
+type: experiment
+name: 31a_ Update Forecast With Date Effective Rates
+flag: 31a_UpdateForecastWithDateEffectiveRates
+conditions:
+  - group:
+      name:
+        - 31a_testru Fiscal Calendar  March1
+        - 31a__clone2
+        - 31a_acc3
+        - 31a_v6upgrade1 HF46
+        - 31a_Like a Version
+        - 31a_ratecard
+    value: true
+value: false

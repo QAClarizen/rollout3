@@ -1,0 +1,19 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a1f6cae01f7d271eda4e
+type: experiment
+name: 31a_ Api Calls Throttling Excluded Api Requesters
+flag: 31a_ApiCallsThrottlingExcludedApiRequesters
+availableValues:
+  - ' '
+  - (null)
+  - DataLoader
+conditions:
+  - group:
+      name: 31a_ju_julialiskot
+    value: ' '
+  - group:
+      name:
+        - 31a_QAUA
+        - 31a_vkorg
+    value: DataLoader
+value: (null)

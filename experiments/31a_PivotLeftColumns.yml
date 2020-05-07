@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a15818d4de2e5bbeaf30
+type: experiment
+name: 31a_ Pivot Left Columns
+flag: 31a_PivotLeftColumns
+value: true

@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0b4cae01f668e1ec834
+type: experiment
+name: 31a_ Enable Sharepoint Online Sub Sites Logger
+flag: 31a_EnableSharepointOnlineSubSitesLogger
+conditions:
+  - group:
+      name: 31a_Clarizen Int
+    value: false
+value: false

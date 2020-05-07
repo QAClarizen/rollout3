@@ -1,0 +1,16 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f6af8c61bafba0cf637
+type: experiment
+name: 31a_ Custom Actions Per Class Quota
+flag: 31a_CustomActionsPerClassQuota
+availableValues:
+  - '0'
+  - '4'
+conditions:
+  - group:
+      name: 31a_testru Fiscal Calendar  March1
+    value: '0'
+  - group:
+      name: 31a_acc3
+    value: '4'
+value: '0'

@@ -1,0 +1,266 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f72cae01f81c81eaf63
+type: experiment
+name: 31a_ Derived Dependencies Special Treatment
+flag: 31a_DerivedDependenciesSpecialTreatment
+availableValues:
+  - '1'
+  - '2'
+conditions:
+  - group:
+      name:
+        - 31a_Einat
+        - 31a_Test Downgrade  103636
+        - 31a_EINAT18
+        - 31a_EINAT95
+        - 31a_EINAT98
+        - 31a_Clone 1 AABB
+        - 31a_Clone Of Clone AABB
+        - 31a_clone 11
+        - 31a_SMSC
+        - 31a_QAUA
+        - 31a_smsc clone refresh testing 6
+        - 31a_ju_julialiskot
+        - 31a_vkorg
+        - 31a_throttling2
+        - 31a_BR_TEST
+        - 31a_throttling
+        - 31a_Clarizen Int
+        - 31a_Clarizen int_clone11
+        - 31a_Clarizen Int_Clone1
+        - 31a_Clarizen Int_Clone2
+        - 31a_testru Fiscal Calendar  March1
+        - 31a_loadlr
+        - 31a_Float Factor  28929
+        - 31a_testrm  no Fiscal Year
+        - 31a_float00_clone3
+        - 31a_Lohika Test Anton 23
+        - 31a_WHF155Org_
+        - 31a_Natalia
+        - 31a_750cf
+        - 31a_FilterBasic
+        - 31a__clone2
+        - 31a_OneLogin19278
+        - 31a_OneLoginClone
+        - 31a_acc3
+        - 31a_upgradedToEnhanced
+        - 31a_upgradedToBasic
+        - 31a_ALERTS TEST227793
+        - 31a_Programm  483780
+        - 31a_750cf_clone1
+        - 31a_750cf_clone2
+        - 31a_750cf_clone1_clone11
+        - 31a_750cf_clone1_clone12
+        - 31a_750cf_clone1_clone11_Clone111
+        - 31a_Dashboard Auto Test
+        - 31a_Template Repository
+        - 31a_test4235345
+        - 31a_Acme Corp
+        - 31a_Gossip Girl TV Show12595
+        - 31a_Bastya12972
+        - 31a_888
+        - 31a_STOP Saturday and Sunday 8h  OrgID13315
+        - 31a_Clarizen Products Team
+        - 31a_Terra Incognita
+        - 31a_Template Repository _
+        - 31a_444
+        - 31a_Burda Moden
+        - 31a_asherorg
+        - 31a_FBI  19759
+        - 31a_michal
+        - 31a_QA27819
+        - 31a_ELC engagement request
+        - 31a_Clarizen Ophir
+        - 31a_orgFilterEnh
+        - 31a_3Base Org
+        - 31a_v6upgrade1 HF46
+        - 31a_v6upgrade2
+        - 31a_Mail
+        - 31a_Orgrov
+        - 31a_e35r34t
+        - 31a_FrozenColumns_WorkPlanOnly32757
+        - 31a_AA
+        - 31a_QAA
+        - 31a_Shay Test Account III
+        - 31a_Meidan Inc
+        - 31a_Team 007
+        - 31a_XSS880880
+        - 31a_InterActTECCAssign770770
+        - 31a_OKTA_QA
+        - 31a_Performance
+        - 31a_Lior20140730 140008
+        - 31a_ChartViewsFR5
+        - 31a_ChangeType_FromTaskHammock612549
+        - 31a_FrozenColumns_WorkPlan7307251
+        - 31a_FindAndReplaceManager279322
+        - 31a_DataLoaderWorkItemsWithLinks410157
+        - 31a_London 114312
+        - 31a_ShortcutsRegressionTest469860
+        - 31a_ShortcutsRegressionTest822531
+        - 31a_First Task
+        - 31a_RolesAndAuthorizations_External555705
+        - 31a_RolesAndAuthorizations_Internal272064
+        - 31a_FieldSet_OnlyDefaultFields794462
+        - 31a_FieldSet_AggregationTest751070
+        - 31a_FieldSet_AggregationFinancialSuperUser76157
+        - 31a_FieldSet_DefaultProfileImpact926361
+        - 31a_FieldsSet_AggregateNoAggregateDefaultProfile623546
+        - 31a_ProfilesSanityForAllSections5120
+        - 31a_Clarizen test account
+        - 31a_testbp1
+        - 31a_Calendar view
+        - 31a_Testing Environment
+        - 31a_ProfilesBugs42688
+        - 31a_CLARIZEN65
+        - 31a_ProfilesPermissionsOnViews924705
+        - 31a_HighLightSelectedField868612
+        - 31a_ProfilesWithCustomizationAndInteract728723
+        - 31a_liadqa
+        - 31a_Elad MM  184706
+        - 31a_EINAT90
+        - 31a_dinaAnkonina
+        - 31a_HighLightCustomField44732
+        - 31a_RL_VerifyFilters508403
+        - 31a_ConditionalFormatting822628
+        - 31a_71
+        - 31a_EINAT77
+        - 31a_EINAT55
+        - 31a_hf43testedition
+        - 31a_testrl
+        - 31a_Cobra 199543
+        - 31a_EINAT60
+        - 31a_testfrozen  Fiscal Year Start 1March
+        - 31a_RL_QuickFilters89167
+        - 31a_Test000
+        - 31a_mmbasic
+        - 31a_ChangeType_FromMS989300
+        - 31a_12
+        - 31a_RL_VerifyLinksFilters746791
+        - 31a_MultiManager651927
+        - 31a_AutomationShay
+        - 31a_NumericFormatting772927
+        - 31a_RL_Calculations_WithFiltering341562
+        - 31a_Test Calendar View Org
+        - 31a_CLARIZEN36
+        - 31a_FrozenColumns730725
+        - 31a_CalendarView108354
+        - 31a_Winterfell
+        - 31a_tal1
+        - 31a_InlineEditorsTest119375
+        - 31a_BID122649
+        - 31a_111111
+        - 31a_DD12
+        - 31a_mphq5wallacoil
+        - 31a_QA mphq6
+        - 31a_gdf
+        - 31a_EINAT78
+        - 31a_EINAT26
+        - 31a_acc1 Calendar 454
+        - 31a_acc2
+        - 31a_EINAT88
+        - 31a_rrrrr
+        - 31a_RL_WBD_Calculations_WithFiltering676193
+        - 31a_RU final
+        - 31a_NumericFormatting_Inline66641
+        - 31a_Calrizen
+        - 31a_Like a Version
+        - 31a_EINAT44
+        - 31a_Core_BID10831942381
+        - 31a_Core_CA_BUGS932628
+        - 31a_Core_CA_BID76052500231
+        - 31a_newfin
+        - 31a_FPTestElad Hahahah Elad
+        - 31a_Cla
+        - 31a_AbC
+        - 31a_ShaniOrg
+        - 31a_EladQA1
+        - 31a_Elad500
+        - 31a_750WI
+        - 31a_SyncAutomation
+        - 31a_454new
+        - 31a_sssssss
+        - 31a_CLARIZEN19
+        - 31a_CO_Admin_emails
+        - 31a_Core_BID_CLZDEV_10045910709
+        - 31a_Core_BID_CLZDEV_10428787389
+        - 31a_exporttest
+        - 31a_reports tests
+        - 31a_ABCD
+        - 31a_exportForImport
+        - 31a_epastage
+        - 31a_testrate
+        - 31a_newru
+        - 31a_testrate2
+        - 31a_testrate5
+        - 31a_timePhaseReportTest
+        - 31a_ratecard
+        - 31a_ChangeType_FromProj875313
+        - 31a_Separate DB GID659638
+        - 31a_testi2
+        - 31a_erf
+        - 31a_TanyaCh1
+        - 31a_TanyaCh2  676773
+        - 31a_qwerty
+        - 31a_CTS_BID92939_Chrome529527
+        - 31a_Test 1913 New Org
+        - 31a_APIReleaseManagement
+        - 31a_solr122
+        - 31a_RoniTestOrg
+        - 31a_migrationtest1
+        - 31a_Llohika test
+        - 31a_Clone2Acc1
+        - 31a_Clone3
+        - 31a_clone4
+        - 31a_EINAT_60_Clone2
+        - 31a_acc1_clone5
+        - 31a_hf9clone
+        - 31a_clone 8
+        - 31a_clone 9
+        - 31a_Ilan
+        - 31a_acc2_clone1
+        - 31a_clone_einat
+        - >-
+          31a_Lorem ipsum dolor sit amet consectetur adipiscing elit s fgh fgh
+          fgh fgh fgh fgh fg hfgh fgh fgh fg h
+        - 31a_RL_QuickFilters_Load_Day
+        - 31a_RL_QuickFilters_Load_Week
+        - 31a_RL_QuickFilters_Load_Month
+        - 31a_RL_QuickFilters_Availability_Day
+        - 31a_RL_QuickFilters_Availability_Week
+        - 31a_RL_QuickFilters_Availability_Month
+        - 31a_RL_QuickFilters_Load_Hours
+        - 31a_RL_QuickFilters_Load_FTE
+        - 31a_RL_QuickFilters_Load_PersonDays
+        - 31a_RL_QuickFilters_RemainingEffort_Load
+        - 31a_RL_QuickFilters_RemainingEffort_Availability
+        - 31a_RL_QuickFilters_RemainingEffort_Availability_Hours
+        - 31a_RL_QuickFilters_RemainingEffort_Availability_FTE
+        - 31a_RL_QuickFilters_RemainingEffort_Availability_PersonDays
+        - 31a_ChangeType_FromTaskHammock994296
+        - 31a_Clarizen test tanya
+        - 31a_bastya clone 1
+        - 31a_Target
+        - 31a_new445
+        - 31a_FieldSet_CreateDefaultFieldsOnlyProfile642172
+        - 31a_target_25
+        - 31a_TestDirtyFlag231757
+        - 31a_AuditTrailForWorkItemApps351281
+        - 31a_SergeyKarpovichClarizencom
+        - 31a_filterbasic_grandChild1
+        - 31a_Second1
+        - 31a_second11
+        - 31a_second22
+        - 31a_second33
+        - 31a_third11_onsecond22
+        - 31a_second33_third2
+        - 31a_third22
+        - 31a_another1
+        - 31a_CV_ColorCoding_Part2_Duration
+        - 31a_CV_ColorCoding_Part2_Percent
+        - 31a_CV_ColorCoding_Part2_PickList
+        - 31a_CV_ColorCoding_Part2_Text
+        - 31a_CV_ColorCoding_Part2_Currency
+        - 31a_Natalia 2
+        - 31a_newfin with BUCP
+    value: '1'
+value: '2'

@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99fd9cae01f4ba41eb4ee
+type: experiment
+name: 31a_ Digital Proofing Type Selector
+flag: 31a_DigitalProofingTypeSelector
+conditions:
+  - group:
+      name:
+        - 31a_Float Factor  28929
+        - 31a_float00_clone3
+        - 31a_OneLogin19278
+        - 31a_OneLoginClone
+        - 31a_Elad MM  184706
+        - 31a_Like a Version
+        - 31a_epastage
+    value: true
+value: false

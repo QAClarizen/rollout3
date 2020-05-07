@@ -1,0 +1,17 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea9a0e4cae01f03831ecbe6
+type: experiment
+name: 31a_ Extend Org Summary Relation Fields Cnt To25
+flag: 31a_ExtendOrgSummaryRelationFieldsCntTo25
+conditions:
+  - group:
+      name:
+        - 31a_Float Factor  28929
+        - 31a_float00_clone3
+        - 31a_EINAT60
+        - 31a_EINAT78
+        - 31a_EINAT88
+        - 31a_EINAT_60_Clone2
+        - 31a_Ilan
+    value: true
+value: false

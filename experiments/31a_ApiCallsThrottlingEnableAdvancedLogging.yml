@@ -1,0 +1,18 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea99f8acae01f609d1eb131
+type: experiment
+name: 31a_ Api Calls Throttling Enable Advanced Logging
+flag: 31a_ApiCallsThrottlingEnableAdvancedLogging
+conditions:
+  - group:
+      name:
+        - 31a_Mariash
+        - 31a_mariaclcom
+    value: false
+  - group:
+      name:
+        - 31a_SMSC
+        - 31a_QAUA
+        - 31a_smsc clone refresh testing 6
+    value: true
+value: false
