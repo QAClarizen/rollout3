@@ -1,0 +1,27 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ebb16026bedc8c863ba61bf
+type: experiment
+name: CASB Retrieve Days Limit
+flag: CASBRetrieveDaysLimit
+availableValues:
+  - '90'
+conditions:
+  - group:
+      name:
+        - RnD
+        - QA
+        - Clarizen Solution Repository
+        - Internal Template Repository
+        - Product B
+        - Product A
+        - Operations
+        - Project Management
+        - IT
+        - BrothersCorp
+        - Sales
+        - Tenderson
+        - Tenderson IT
+        - Customer Support
+        - Template Repository
+    value: '90'
+value: '90'
