@@ -1,0 +1,7 @@
+type: target-group
+name: Project Management
+conditions:
+  - operator: in-array
+    property: OrgId
+    operand:
+      - '3'
